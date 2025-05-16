@@ -1,1 +1,2 @@
-print("Retina AI Codespace is running...")
+print("Retina AI Model запуск...")
+# Здесь логика загрузки весов и инференса

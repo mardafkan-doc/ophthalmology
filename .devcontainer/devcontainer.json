@@ -1,9 +1,0 @@
-{
-  "name": "retina-ai-dev",
-  "build": {
-    "dockerfile": "../Dockerfile"
-  },
-  "settings": {},
-  "extensions": [],
-  "postCreateCommand": "pip install -r requirements.txt"
-}
